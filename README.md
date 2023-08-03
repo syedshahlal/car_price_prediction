@@ -31,10 +31,10 @@ This web application is designed to predict the selling price of used cars based
 
 ## Technologies Used
 
-- Python ![Python](https://img.shields.io/badge/Python-3.7%2B-blue)
-- Flask (web framework) ![Flask](https://img.shields.io/badge/Flask-2.0.1-lightgrey)
-- Scikit-learn (machine learning library) ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-0.24.2-orange)
-- Pandas (data manipulation library) ![Pandas](https://img.shields.io/badge/Pandas-1.3.0-brightgreen)
+- Python![Python](https://img.shields.io/badge/Python-3.7%2B-blue)
+- Flask (web framework)![Flask](https://img.shields.io/badge/Flask-2.0.1-lightgrey)
+- Scikit-learn (machine learning library)![Scikit-learn](https://img.shields.io/badge/Scikit--learn-0.24.2-orange)
+- Pandas (data manipulation library)![Pandas](https://img.shields.io/badge/Pandas-1.3.0-brightgreen)
 - HTML/CSS (for frontend) ![HTML/CSS](https://img.shields.io/badge/HTML%2FCSS-5%2B%20%7C%204.01%20%7C%203-blueviolet)
 
 ## Dataset
